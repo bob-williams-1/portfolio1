@@ -99,7 +99,7 @@ header .container {
 }
 
 .nav ul li+li {
-	/* See https://www.jackreichert.com/2011/07/how-to-add-a-divider-between-menu-items-in-css-using-only-one-selector/ */
+	
 	border-left: 1px solid #cccccc;
 }
 
